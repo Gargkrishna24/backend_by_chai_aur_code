@@ -1,0 +1,31 @@
+{
+  "name": "advancedbackened",
+  "version": "1.0.0",
+  "description": "learning backened ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gargkrishna24/backend_by_chai_aur_code.git"
+  },
+  "keywords": [
+    "moongoose",
+    "krishna",
+    "garg",
+    "express"
+  ],
+  "author": "krishna garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gargkrishna24/backend_by_chai_aur_code/issues"
+  },
+  "homepage": "https://github.com/Gargkrishna24/backend_by_chai_aur_code#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  }
+}
